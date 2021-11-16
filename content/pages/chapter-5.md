@@ -1,0 +1,10 @@
+---
+content_type: page
+title: Chapter 5
+uid: 8658f58c-d6e2-d103-e723-926b9acead81
+---
+
+| TEXTBOOK CONTENTS | DEMONSTRATION TOPICS | VIDEOS -  {{< br >}}SHORT FORM | VIDEOS -  {{< br >}}LONG FORM |
+| --- | --- | --- | --- |
+| {{< td-colspan 4 >}}**Chapter 5: Electroquasistatic fields from the boundary value point of view** ([PDF]({{< baseurl >}}/resources/05)){{< /td-colspan >}} ||||
+| 5.0 Introduction  {{< br >}}5.1 Particular and homogeneous solutions to Poisson's and Laplace's equations {{< br >}}{{< br >}} *   _Superposition to satisfy boundary conditions_{{< br >}}*   _Capacitance matrix_ {{< br >}}{{< br >}} 5.2 Uniqueness of solutions of Poisson's equation  {{< br >}}5.3 Continuity conditions  {{< br >}}5.4 Solutions to Laplace's equation in Cartesian coordinates  {{< br >}}5.5 Modal expansions to satisfy boundary conditions  {{< br >}}5.6 Solutions to Poisson's equation with boundary conditions  {{< br >}}5.7 Solutions to Laplace's equation in polar coordinates  {{< br >}}5.8 Examples in polar coordinates {{< br >}}{{< br >}} *   _Simple solutions_{{< br >}}*   _Azimuthal modes_{{< br >}}*   _Radial modes_ {{< br >}}{{< br >}} 5.9 Three solutions to Laplace's equation in spherical coordinates  {{< br >}}5.10 Three-dimensional solutions to Laplace's equation {{< br >}}{{< br >}} *   _Cartesian coordinate product solutions_{{< br >}}*   _Modal expansion in Cartesian coordinates_{{< br >}}*   _Modal expansion in other coordinates_ {{< br >}}{{< br >}} 5.11 Summary | 5.5.1: Capacitance attenuator | [Chapter 5.5.1: Capacitance Attenuator (demo only)]({{< baseurl >}}/resources/chapter-5-5) | [Chapter 5.5.1: Capacitance Attenuator]({{< baseurl >}}/resources/chapter-5-5-1)
